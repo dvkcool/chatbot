@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: debonairly81-hasura
+  data: null
+  kubeContext: debonairly81
+  name: debonairly81
